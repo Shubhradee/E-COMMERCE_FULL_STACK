@@ -12,4 +12,5 @@
 
 # Pre-Requisites
 * Requires installation of xampp server
-* Requires importing of the .sql file on your phpMyAdmin 
+* Requires importing of the .sql file on your phpMyAdmin
+* Use localhost/{"relative pathway of the project on your device from xampp/htdocs"} to get started  
