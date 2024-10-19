@@ -22,7 +22,6 @@
     
     <div class = "d-flex fs-6">
     <a href = "../../INDEX.php" class = "text-primary text-decoration-none pe-2"><i class="fa-solid fa-house"></i> Home  |</a>
-    <a href = "" class = "text-primary text-decoration-none pe-2 "><i class="fa-solid fa-cart-plus"></i>  Cart(0) | </a>
 
      <span class = "text-primary pe-2 fs-6">
     <i class="fa-solid fa-users fs-6"></i> Hello, |
