@@ -1,6 +1,6 @@
 # MyShop (An E-Commerce Website)
 * Developed as a Capstone project on a summer internship
-* Developed using HTML and Bootstrap as client-side framework
+* Developed using HTML and Bootstrap as a CSS framework
 * Developed using PHP as a server-side scripting language
 * Developed using MySQL as the database provider
 
