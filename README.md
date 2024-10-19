@@ -13,5 +13,5 @@
 # Pre-Requisites
 * Requires installation of xampp server
 * Start the apache and MySQL ports on your xampp server (which will serve as the localhost)
-* Requires importing of the file with .sql extension on your phpMyAdmin (API link to your phpMyAdmin window -- "localhost/phpmyadmin/")
+* Requires importing of the file myshop.sql on your phpMyAdmin (API link to your phpMyAdmin window -- "localhost/phpmyadmin/")
 * Browse " localhost/{relative pathway of INDEX.php file saved on your device from xampp/htdocs} " on your browser to get started  
