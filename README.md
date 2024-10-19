@@ -7,7 +7,7 @@
 # Features
 * Has a user panel to cater to user requirements such as Register,Login and Cart options
 * Has an admin panel to cater to admin requirements such as adding and removing products based on stock availability and checking on user login details to prevent unauthorised user entry from client-side
-* Sells 5 different categories of products --- laptops, mobiles, electronic household gadgets and clothes
+* Sells 5 different categories of products --- laptops, mobiles, bags, electronic household gadgets and clothes
 
 
 # Pre-Requisites
